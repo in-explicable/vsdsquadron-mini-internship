@@ -14,5 +14,5 @@ The program is based on the RISC-V architecture and uses open-source tools to te
 ----------------------------------------------------------------------------------------------------------------
 
 <details>
-<summary><b>Task 1:</b> Task is to install all the essential tools required for this internship such as Ubuntu on VMBox, GNU Toolchain, GTKWave, Yosys and iVerilog simulator</summary>   
+<summary><b>Task 1:</b> Create GitHub repo. Install RISC-V toolchain using VDI shared. Refer to C based Lab video and RISC-V based lab videos. Upload snapshot of compiled C code and RISC-V Objdmp on the GitHub repo</summary>   
 <br>
